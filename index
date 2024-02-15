@@ -1,1 +1,24 @@
+<!DOCTYPE html>
+<!--coding with lucifer the devil !! -->
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width= device-width, intial-scale=1.0" />
+  <title> coffee cup art </title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="cup">
+      <div class="heart">
+      </div>
+    </div>
+    <div class="lid"></div>
+    <div class="steam"></div>
+    <div class="base"></div>
+  </div>
+</body>
+
+</html>
